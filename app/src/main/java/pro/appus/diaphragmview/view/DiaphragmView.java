@@ -48,7 +48,7 @@ public class DiaphragmView extends View {
     }
 
     /**
-     * Instantiates a new DiaphragmView.
+     * Instantiates a new DiaphragmView and initializes ExecutorService.
      *
      * @param context the context
      * @param attrs   the attributes defined in the XML file
@@ -86,7 +86,7 @@ public class DiaphragmView extends View {
     }
 
     /**
-     * Sets diaphragm's petals number and initializes ExecutorService.
+     * Sets diaphragm's petals number.
      *
      * @param diaphragmPetalsCount the number of petals
      */
