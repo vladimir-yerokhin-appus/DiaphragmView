@@ -48,12 +48,12 @@ Can be used, for example, in photoeditos or like animated UI elemet.
         	app:diaphragm_border_width="3"
         	app:diaphragm_petals_count="9"  />
 
-    And also, the DiaphragmView can be controlled from the code:
+   And also, the DiaphragmView can be controlled from the code:
 
-    	* setOpeningValue(float openingValue) - sets diaphragm's opening value, for example, by SeekBar
-    	* getOpeningValue() - gets current diaphragm's opening value
-    	* setDiaphragmPetalsCount(int diaphragmPetalsCount) - sets diaphragm's petals number
-    	* reset() - returns the DiaphragmView to its original state
+   * setOpeningValue(float openingValue) - sets diaphragm's opening value, for example, by SeekBar
+   * getOpeningValue() - gets current diaphragm's opening value
+   * setDiaphragmPetalsCount(int diaphragmPetalsCount) - sets diaphragm's petals number
+   * reset() - returns the DiaphragmView to its original state
 
 # Info
 
