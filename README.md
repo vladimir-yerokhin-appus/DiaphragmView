@@ -60,6 +60,7 @@ Can be used, for example, in photoeditos or like animated UI elemet.
 ## Developed By
 
 Alexey Kubas, Appus Studio
+
 Vladimir Yerokhin, Appus Studio
 
 ## License
