@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DiaphragmView">
+        <attr name="diaphragm_size" format="dimension" />
+
+        <attr name="diaphragm_border_color" format="color" />
+        <attr name="diaphragm_border_width" format="integer" />
+
+        <attr name="diaphragm_background_color" format="color" />
+
+        <attr name="diaphragm_petals_count" format="integer" />
+
+        <attr name="diaphragm_default_opening_value" format="float" />
+
+        <attr name="diaphragm_is_shoots_auto" format="boolean" />
+
+        <attr name="diaphragm_auto_shot_delay" format="integer" />
+    </declare-styleable>
+</resources>
