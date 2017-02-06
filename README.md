@@ -21,7 +21,7 @@ Can be used, for example, in photoeditos or like animated UI elemet.
 
 # Demo
 
-![](https://github.com/vladimir-yerokhin-appus/DiaphragmView/blob/master/readme_files/diaphragmViewGif.gif)
+![](https://github.com/vladimir-yerokhin-appus/DiaphragmView/blob/master/readme_files/diaphragm_view.gif)
 
 # Getting Started
 
