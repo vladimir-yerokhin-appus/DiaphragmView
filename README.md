@@ -17,7 +17,8 @@ Can be used, for example, in photoeditos or like animated UI elemet.
 * diaphragm_default_opening_value - the value to which the diaphragm will be revealed initially (float value from 0f to 1f)
 * diaphragm_size - diaphragm diameter (value in dp)
 * diaphragm_petals_count - quantity of diaphragm petals (int value from 3 to ...)
-
+* diaphragm_is_shoots_auto - turns on / off the diaphragm's auto-shootting
+* diaphragm_auto_shot_delay - delay between autimatic shoots (in milliseconds)
 
 # Demo
 
@@ -59,9 +60,9 @@ Can be used, for example, in photoeditos or like animated UI elemet.
 
 ## Developed By
 
-[Alexey Kubas](https://github.com/alexey-kubas-appus), Appus Studio
-
 [Vladimir Yerokhin](https://github.com/vladimir-yerokhin-appus), Appus Studio
+
+[Alexey Kubas](https://github.com/alexey-kubas-appus), Appus Studio
 
 ## License
 
