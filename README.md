@@ -31,7 +31,7 @@ Can be used, for example, in photoeditos or like animated UI elemet.
    Just add dependence to main build.gradle:
 
         dependencies {
-                compile 'pro.appus:diaphragmview:1.0.0-alpha'
+                compile 'pro.appus:diaphragmview:1.2'
         }
    
 ##Usage example:
